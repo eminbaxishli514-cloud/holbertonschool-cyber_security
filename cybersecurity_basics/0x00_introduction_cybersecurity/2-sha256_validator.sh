@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(sha256sum "$1" | cut -c1-64)" = "$2" ] && echo "$1: OK"
+[ "$(sha256sum "$1" | awk '{print $1}')" = "$2" ] && echo "$1: OK" || echo "$1: FAIL"
