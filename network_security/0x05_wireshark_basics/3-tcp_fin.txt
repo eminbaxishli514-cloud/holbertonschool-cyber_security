@@ -1,0 +1,1 @@
+tcp.flags & 0x001 != 0 && tcp.flags & 0x002 == 0 && tcp.flags & 0x010 == 0 && tcp.window_size == 1024
