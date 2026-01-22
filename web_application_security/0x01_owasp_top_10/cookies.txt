@@ -1,0 +1,80 @@
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496207-17690968662; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496208-17690968667; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496209-17690968673; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496210-17690968679; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496211-17690968684; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496212-17690968690; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496213-17690968695; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496215-17690968703; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496216-17690968709; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496217-17690968715; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496218-17690968721; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496219-17690968727; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496220-17690968732; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496221-17690968739; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496222-17690968744; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496223-17690968750; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496224-17690968756; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496225-17690968762; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496226-17690968767; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496227-17690968773; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496229-17690968780; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496230-17690968786; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496231-17690968791; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496232-17690968798; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496233-17690968803; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496234-17690968810; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496235-17690968815; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496236-17690968823; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496237-17690968828; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496238-17690968834; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496239-17690968839; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496240-17690968845; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496241-17690968851; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496242-17690968856; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496244-17690968863; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496245-17690968869; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496246-17690968875; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496247-17690968880; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496248-17690968886; HttpOnly; Path=/
+Location: http://web0x01.hbtn/a1/hijack_session/
+Set-Cookie: hijack_session=016673b9-463c-4969-a18-2496249-17690968891; HttpOnly; Path=/
